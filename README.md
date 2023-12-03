@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 - 🔭 我目前正在从事JAVA开发工作
 - 🌱 我正在学习Spring和Apache
-- 👯 我希望能够参与JAVA开发和NLP方面的合作
-- 🤔 我正在寻求offer
+- 👯 我希望能够参与JAVA开发和LLM(RAG)方面的合作
+- 🤔 我正在寻求实习offer
 - 💬 随时向我提问
 - 📫 如何联系我: sunhb1037@gmail.com or 598924626@qq.com
 
